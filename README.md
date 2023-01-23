@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+youtube link : https://youtu.be/pfaSUYaSgRo
+
+creating a discord inspired nav bar and website 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
